@@ -1,0 +1,45 @@
+.head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 97vw;
+  height: 17vh;
+  background-color: rgb(249, 121, 53);
+  border-radius: 15px;
+  margin: 10px;
+}
+main {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80vw;
+  height: 60vh;
+  background-color: darkcyan;
+  border-radius: 15px;
+}
+.sidebar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20vw;
+  height: 60vh;
+  background-color: rgb(34, 194, 3);
+  border-radius: 15px;
+  margin-left: 20px;
+  margin-right: 5px;
+}
+.foot {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 97vw;
+  height: 17vh;
+  background-color: rgb(249, 121, 53);
+  border-radius: 15px;
+  margin: 10px;
+}
